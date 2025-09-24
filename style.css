@@ -1,0 +1,51 @@
+html,body{
+	height: 100%;
+}
+
+
+.section-1, .section-2, .section-3, .section-4{
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+		background-attachment: fixed;
+
+}
+
+.caption{
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	text-align: center;
+	width: 100%;
+}
+
+.caption-text{
+	background-color: white;
+	color: #cecece;
+	font-size: 42px;
+	font-weight: bold;
+	padding: 15px;
+}
+
+
+.section-text{
+	padding: 50px 80px;
+}
+
+.section-1 {
+	background-image: url(cat2.jpg);
+
+
+}
+.section-2 {
+	background-image: url(quebec2.jpg);
+
+}
+.section-3 {
+	background-image: url(quebec.jpg);
+
+}
+.section-4 {
+	background-image: url("cat.jpg");
+}
