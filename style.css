@@ -34,7 +34,7 @@ html,body{
 }
 
 .section-1 {
-	background-image: url(cat2.jpg);
+	background-image: src(https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg);
 
 
 }
@@ -49,3 +49,4 @@ html,body{
 .section-4 {
 	background-image: url("cat.jpg");
 }
+
